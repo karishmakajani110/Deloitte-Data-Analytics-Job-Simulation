@@ -1,0 +1,28 @@
+## Excel Analysis Summary
+
+As part of the Deloitte Data Analytics Virtual Experience, Excel was used to classify
+employee compensation equity scores using defined fairness thresholds.
+
+### Key Activities
+- Analyzed structured compensation data containing Factory, Job Role, and Equality Score  
+- Created a calculated column to automatically classify equality scores into fairness categories  
+- Implemented conditional logic using absolute value checks to handle both positive and negative variances  
+- Validated results using edge-case examples to ensure accurate classification  
+
+### Classification Logic
+Equality scores were categorized as:
+- **Fair**: between -10 and +10  
+- **Unfair**: less than -10 or greater than +10  
+- **Highly Discriminative**: less than -20 or greater than +20  
+
+### Outcome
+This Excel-based classification enabled consistent identification of compensation equity
+patterns and supported downstream analysis and dashboard development.
+
+### Excel Classification Formula
+
+The following formula was used to automatically classify equality scores
+based on predefined fairness thresholds:
+
+```excel
+![Formula](Image/excel_equity_classification_formula.png)
