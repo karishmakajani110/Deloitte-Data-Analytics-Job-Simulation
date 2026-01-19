@@ -35,7 +35,7 @@ analysis and reporting.
 
 ---
 
-## Tableau Task: Telemetry & Downtime Analysis
+## Tableau Task: Daikibo Telemetry & Downtime Analysis
 
 ### Objective
 Analyze machine telemetry data to identify downtime patterns across factories and
