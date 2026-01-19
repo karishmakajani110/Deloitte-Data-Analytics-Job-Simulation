@@ -24,5 +24,5 @@ patterns and supported downstream analysis and dashboard development.
 The following formula was used to automatically classify equality scores
 based on predefined fairness thresholds:
 
-```excel
 ![Formula](Image/excel_equity_classification_formula.png)
+
