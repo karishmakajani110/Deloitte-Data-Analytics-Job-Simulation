@@ -25,5 +25,5 @@ The following formula was used to automatically classify equality scores
 based on predefined fairness thresholds:
 
 ```excel
-![Formula](images/excel_equity_classification_formula.png)
+![Formula](Image/excel_equity_classification_formula.png)
 
